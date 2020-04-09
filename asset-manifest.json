@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https//bss1284.github.io/myblog/static/css/main.5f361e03.chunk.css",
+    "main.js": "/https//bss1284.github.io/myblog/static/js/main.b874505a.chunk.js",
+    "main.js.map": "/https//bss1284.github.io/myblog/static/js/main.b874505a.chunk.js.map",
+    "runtime-main.js": "/https//bss1284.github.io/myblog/static/js/runtime-main.ab5c58e4.js",
+    "runtime-main.js.map": "/https//bss1284.github.io/myblog/static/js/runtime-main.ab5c58e4.js.map",
+    "static/js/2.81bf6db7.chunk.js": "/https//bss1284.github.io/myblog/static/js/2.81bf6db7.chunk.js",
+    "static/js/2.81bf6db7.chunk.js.map": "/https//bss1284.github.io/myblog/static/js/2.81bf6db7.chunk.js.map",
+    "index.html": "/https//bss1284.github.io/myblog/index.html",
+    "precache-manifest.6c595096cd10a5487f036d3bc3c823b2.js": "/https//bss1284.github.io/myblog/precache-manifest.6c595096cd10a5487f036d3bc3c823b2.js",
+    "service-worker.js": "/https//bss1284.github.io/myblog/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/https//bss1284.github.io/myblog/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.81bf6db7.chunk.js.LICENSE.txt": "/https//bss1284.github.io/myblog/static/js/2.81bf6db7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/https//bss1284.github.io/myblog/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab5c58e4.js",
+    "static/js/2.81bf6db7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b874505a.chunk.js"
+  ]
+}
